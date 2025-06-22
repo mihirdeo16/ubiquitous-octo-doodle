@@ -74,3 +74,31 @@ Another concepts is programming technique to keep in mind is recursion vs iterat
 
 Lastly, we need to understand the **time complexity (T)** and **space complexity (M)** of the algorithms. Time complexity is a measure of how long an algorithm takes to run as a function of the size of the input, while space complexity is a measure of how much memory an algorithm uses as a function of the size of the input.
 
+#### Boilerplate
+```python
+#!/usr/bin/env python3
+"""
+This is a boilerplate code for a Python project.
+Rules to tackle problem:
+1. Understand Problem.
+2. Build Logic.
+3. Make Edge Cases.
+4. Complexity
+"""
+
+__license__ = "MIT"
+__version__ = "0.1.0"
+__maintainer__ = "Mihir Deo"
+
+from typing import List, Dict, Any, Tuple, Union
+from collections import defaultdict, deque
+import heapq
+
+
+def main():
+    """
+    Main function to run the project.
+    """
+    pass    
+    # Add your code here
+```
