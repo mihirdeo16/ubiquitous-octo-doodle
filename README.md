@@ -74,6 +74,17 @@ Another concepts is programming technique to keep in mind is recursion vs iterat
 
 Lastly, we need to understand the **time complexity (T)** and **space complexity (M)** of the algorithms. Time complexity is a measure of how long an algorithm takes to run as a function of the size of the input, while space complexity is a measure of how much memory an algorithm uses as a function of the size of the input.
 
+
+### Project Structure
+```.
+├── README.md
+├── LICENSE
+├── .gitignore
+├── data_structures/ (Hold all data structures related questions)
+├── categories/ (Hold all algorithm related questions)
+└── paradigms/ (Hold all paradigms related questions)
+```
+
 #### Boilerplate
 ```python
 #!/usr/bin/env python3
@@ -86,7 +97,7 @@ Rules to tackle problem:
 4. Complexity
 """
 
-__license__ = "MIT"
+__license__ = "Apache-2.0"
 __version__ = "0.1.0"
 __maintainer__ = "Mihir Deo"
 
