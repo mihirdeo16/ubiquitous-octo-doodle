@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is meant to track and practice the progress of data structures and algorithms. 
+This project is meant to track and practice the progress of data structures and algorithms.
 
 ## A bit about Data Structures and Algorithms
 
@@ -72,7 +72,7 @@ Categories:
 └── Bit Manipulation
     └── Bitwise AND, OR, XOR & NOT
 
-Another concepts is programming technique to keep in mind is recursion vs iteration. Recursion is a technique where a function calls itself in order to solve a problem, while iteration is a technique where a loop is used to repeat a set of instructions until a condition is met. 
+Another concepts is programming technique to keep in mind is recursion vs iteration. Recursion is a technique where a function calls itself in order to solve a problem, while iteration is a technique where a loop is used to repeat a set of instructions until a condition is met.
 
 Lastly, we need to understand the **time complexity (T)** and **space complexity (M)** of the algorithms. Time complexity is a measure of how long an algorithm takes to run as a function of the size of the input, while space complexity is a measure of how much memory an algorithm uses as a function of the size of the input.
 
