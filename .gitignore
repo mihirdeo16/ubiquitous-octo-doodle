@@ -197,3 +197,4 @@ cython_debug/
 #Ignore folder 
 Temp/
 .DS_Store
+.vscode/*
